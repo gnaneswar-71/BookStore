@@ -6,7 +6,11 @@ Users can browse books, search and filter the collection, view book details, man
 
 ## 🚀 Live Demo
 
-Coming soon...
+🔗 **Live Application:**  
+https://book-store-murex-five-69.vercel.app/
+
+🔗 **GitHub Repository:**  
+https://github.com/gnaneswar-71/BookStore
 
 ## ✨ Features
 
